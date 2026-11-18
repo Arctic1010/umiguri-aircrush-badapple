@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+*.log
+*.mp4
+!media/demo.mp4
+*.ogg
+*.mgxc
+*.ugc
+badapple_preview.png
